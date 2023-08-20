@@ -47,7 +47,9 @@ public class Activity_lesson extends AppCompatActivity {
                     Intent intent = new Intent(Activity_lesson.this, video_lessons.class);
                     startActivity(intent);
                 } else if (selectedLesson.equals("Notes")) {
-                    // Handle opening notes or other content
+                    // Open contents_video_lessons activity
+                    Intent intent = new Intent(Activity_lesson.this, notes_lessons.class);
+                    startActivity(intent);
                 }
             }
         });

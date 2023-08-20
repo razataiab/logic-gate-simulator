@@ -51,4 +51,6 @@
     <string name="title_activity_nor_gate">activity_nor_gate</string>
     <string name="title_activity_xor_gate">activity_xor_gate</string>
     <string name="title_activity_sandbox">activity_sandbox</string>
+    <string name="title_activity_notes_lessons">notes_lessons</string>
+    <string name="todo">TODO</string>
 </resources>
